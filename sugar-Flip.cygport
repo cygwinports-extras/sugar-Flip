@@ -1,0 +1,5 @@
+NAME="sugar-Flip"
+VERSION=5
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
